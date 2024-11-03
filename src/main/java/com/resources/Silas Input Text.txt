@@ -1,0 +1,11 @@
+The quick brown fox jumps over the lazy dog.
+A journey of a thousand miles begins with a single step.
+To be or not to be, that is the question.
+This is an example sentence to test the tag extractor.
+The data from the last report was not satisfactory.
+Have you seen the new movie that everyone is talking about?
+Our project is due tomorrow, but we can extend the deadline.
+She said, “It’s a beautiful day outside, isn't it?”
+How many times must a man look up before he sees the sky?
+Everything happens for a reason, even if we can't see it.
+The cat sat on the mat while the dog watched.
